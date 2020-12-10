@@ -1,6 +1,6 @@
 import * as React from "react";
 import { Header } from "react-native-elements";
-import {View,StyleSheet,Text,TextInput,TouchableOpacity,Alert,} from "react-native";
+import {View,StyleSheet,Text,TextInput,TouchableOpacity,Alert} from "react-native";
 import * as firebase from "firebase";
 import db from "../config";
 
